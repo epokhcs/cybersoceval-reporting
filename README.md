@@ -24,7 +24,7 @@ We are not stopping here. We are now actively experimenting with even more advan
 
 
 ![Infograph: CyberSOCEval- Malware Reasoning Benchmark](assets/infograph-2.png)
-Figure 1: Infograph- Malware Reasoning Benchmark
+        **Figure 1: Infograph- Malware Reasoning Benchmark**
 
 ---
 
