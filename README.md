@@ -10,9 +10,6 @@
 🏗️ **Building on the Foundation**
 Leveraging the groundwork laid by **Meta and CrowdStrike** in their recent [landmark paper](https://arxiv.org/pdf/2509.20166), we are pushing the boundaries of what Large Language Models can achieve in the Security Operations Center. We specifically targeted **Task 1: Malware Investigation**, a domain that demands far more than simple pattern matching.
 
-🧩 **The Complexity Gap**
-Solving this is **not a trivial task**. It requires a model to reason through complex, low-level process execution logs to identify malicious intent with high precision—a challenge that defeats most standard LLMs.
-
 🏆 **Current Performance Ceiling**
 Through rigorous experimentation with a variety of advanced techniques, **we have identified the current performance ceiling of open-source models to be 35.47%**, achieved by the **GLM-4.6** model.
 
@@ -23,7 +20,11 @@ Our research reveals a critical reality: there is **"No Free Lunch"** when it co
 
 🔥 **What's Next?**
 We are not stopping here. We are now actively experimenting with even more advanced techniques to **shatter this ceiling**.
-![Open-source LLM: CyberSOCEval- Malware Reasoning Benchmark](assets/infograph-2.png)
+
+
+
+![Infograph: CyberSOCEval- Malware Reasoning Benchmark](assets/infograph-2.png)
+Figure 1: Infograph- Malware Reasoning Benchmark
 
 ---
 
