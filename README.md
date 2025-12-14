@@ -107,11 +107,8 @@ We evaluated the **Cisco 8b Instruct** model, which is specifically fine-tuned f
 
 ## 📚 6. References
 
-1.  **CyberSocEval Benchmark**
-* 🔗 *Link:* [https://arxiv.org/pdf/2509.20166 ](https://arxiv.org/pdf/2509.20166)
+1.  **CyberSocEval Benchmark** - [https://arxiv.org/pdf/2509.20166 ](https://arxiv.org/pdf/2509.20166)
 
-2.  **Token-Oriented Object Notation (TOON)**
-* 🔗*Link:* [https://github.com/toon-format/toon](https://github.com/toon-format/toon)
+2.  **Token-Oriented Object Notation (TOON)** - [https://github.com/toon-format/toon](https://github.com/toon-format/toon)
 
-3.  **Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data**
-* 🔗 *Link:* [https://arxiv.org/pdf/2412.10654](https://arxiv.org/pdf/2412.10654)
+3.  **Thinking with Knowledge Graphs: Enhancing LLM Reasoning Through Structured Data** - [https://arxiv.org/pdf/2412.10654](https://arxiv.org/pdf/2412.10654)
